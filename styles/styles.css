@@ -125,7 +125,7 @@ header .navbar .navbar-nav .nav-item {
   color: #fff;
   position: relative; }
   #header-index.page-home {
-    background-image: url("../../images/background-header.jpg"); }
+    background-image: url("../images/background-header.jpg"); }
   #header-index .title {
     position: absolute;
     left: 0;
@@ -153,7 +153,7 @@ header .navbar .navbar-nav .nav-item {
   color: #fff;
   position: relative; }
   #header-quem-somos.page-quem-somos {
-    background-image: url("../../images/background-quem-somos.jpg"); }
+    background-image: url("../images/background-quem-somos.jpg"); }
   #header-quem-somos .title {
     position: absolute;
     left: 0;
@@ -177,7 +177,7 @@ header .navbar .navbar-nav .nav-item {
   color: #fff;
   position: relative; }
   #header-clients.page-clients {
-    background-image: url("../../images/background-clientes.jpg"); }
+    background-image: url("../images/background-clientes.jpg"); }
   #header-clients .title {
     position: absolute;
     left: 0;
@@ -198,7 +198,7 @@ header .navbar .navbar-nav .nav-item {
   color: #fff;
   position: relative; }
   #header-team.page-team {
-    background-image: url("../../images/background-equipe.jpg"); }
+    background-image: url("../images/background-equipe.jpg"); }
   #header-team .title {
     position: absolute;
     left: 0;
@@ -219,7 +219,7 @@ header .navbar .navbar-nav .nav-item {
   color: #fff;
   position: relative; }
   #header-contact.page-contact {
-    background-image: url("../../images/background-contato.jpg"); }
+    background-image: url("../images/background-contato.jpg"); }
   #header-contact .title {
     position: absolute;
     left: 0;
