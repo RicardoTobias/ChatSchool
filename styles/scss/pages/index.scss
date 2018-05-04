@@ -1,0 +1,40 @@
+#header-index,
+#how-it-works,
+#clients,
+#team {
+    width: 100%;
+    height: 100%;
+}
+
+#header-index {
+    background: #000 no-repeat fixed center;
+    background-size: cover;
+    color: #fff;
+    position:relative;
+
+    &.page-home {
+        background-image: url("../../images/background-header.jpg")
+    }
+
+    .title {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translate(0,-50%);
+        text-align: center;
+
+        h1 {
+            font-size: 54px;
+            line-height: 60px;
+        }
+    }
+}
+
+#clients{
+    background-color: rgb(242,242,242);
+}
+
+#team {
+    background-color: rgb(84,209,84);
+    color: #fff;
+}

@@ -1,0 +1,25 @@
+#header-contact{
+    width: 100%;
+    height: 50%;
+    background: #000 no-repeat fixed center;
+    background-size: cover;
+    color: #fff;
+    position:relative;
+
+    &.page-contact {
+        background-image: url("../../images/background-contato.jpg")
+    }
+    
+    .title {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translate(0,-50%);
+        text-align: center;
+
+        h1 {
+            font-size: 54px;
+            line-height: 60px;
+        }
+    }
+}
